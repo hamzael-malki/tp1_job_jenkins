@@ -1,0 +1,16 @@
+package fr.jenkins.tps;
+
+import java.util.Iterator;
+
+public class JenkinsTps {
+
+	public static void main(String[] args) {
+		
+		for (int i=0;i<7;i++) {
+			System.out.println("c'est la ligne :"+(i+1));
+			
+		}
+		
+	}
+
+}
